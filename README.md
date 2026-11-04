@@ -1,8 +1,3 @@
-This project does not have any affiliation to PrismLauncher, nor Microsoft.\
-This is a fork of prism launcher which enables Adding offline account.\
-This is done in order to test, and experiment.\
-This application does not support or endorse piracy. You must own a legitimate copy of the game purchased from an official store.
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg">
@@ -15,6 +10,13 @@ This application does not support or endorse piracy. You must own a legitimate c
   Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
   <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
 </p>
+
+
+This project does not have any affiliation to PrismLauncher, nor Microsoft.\
+This is a fork of prism launcher which enables Adding offline account.\
+This is done in order to test, and experiment.\
+This application does not support or endorse piracy. You must own a legitimate copy of the game purchased from an official store.|
+
 
 ## Installation
 
